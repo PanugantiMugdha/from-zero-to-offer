@@ -36,5 +36,4 @@ Only progress.**
 
 ---
 
-## 📂 Folder Structure
 
