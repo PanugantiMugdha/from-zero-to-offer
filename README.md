@@ -28,12 +28,3 @@ Only progress.**
 
 ---
 
-## 🛠️ Tech & Languages Used
-
-- 💻 Java 
-- 📚 LeetCode 
-- 🗂️ Clean folder structure
-
----
-
-
